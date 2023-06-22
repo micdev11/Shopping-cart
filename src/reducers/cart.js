@@ -29,7 +29,6 @@ const UPDATE_STATE_BY_ACTION = {
       //       quantity: item.quantity + 1
       //     }
       //   }
-
       //   return item
       // })
 

@@ -16,7 +16,7 @@ export function Filters () {
   }
 
   const handleChangeCategory = (event) => {
-    // ⬇️ ESTO HUELE MAL
+    // ⬇️ parece mala practica..
     // estamos pasando la función de actualizar estado
     // nativa de React a un componente hijo
     setFilters(prevState => ({
